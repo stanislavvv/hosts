@@ -1,3 +1,23 @@
+# megafon autosubscriptions hosts
+# see https://github.com/stanislavvv/hosts
+
+# common part:
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# content:
 0.0.0.0 0c5.ru
 0.0.0.0 0kino.net
 0.0.0.0 0nlinemedia.com
