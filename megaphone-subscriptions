@@ -15,9 +15,35 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
 
 # content:
+0.0.0.0 a.mobilebanner.ru
+0.0.0.0 b.mobilebanner.ru
+0.0.0.0 c.mobilebanner.ru
+0.0.0.0 d.mobilebanner.ru
+0.0.0.0 e.mobilebanner.ru
+0.0.0.0 f.mobilebanner.ru
+0.0.0.0 g.mobilebanner.ru
+0.0.0.0 h.mobilebanner.ru
+0.0.0.0 i.mobilebanner.ru
+0.0.0.0 j.mobilebanner.ru
+0.0.0.0 k.mobilebanner.ru
+0.0.0.0 l.mobilebanner.ru
+0.0.0.0 m.mobilebanner.ru
+0.0.0.0 n.mobilebanner.ru
+0.0.0.0 o.mobilebanner.ru
+0.0.0.0 p.mobilebanner.ru
+0.0.0.0 q.mobilebanner.ru
+0.0.0.0 r.mobilebanner.ru
+0.0.0.0 s.mobilebanner.ru
+0.0.0.0 t.mobilebanner.ru
+0.0.0.0 u.mobilebanner.ru
+0.0.0.0 v.mobilebanner.ru
+0.0.0.0 w.mobilebanner.ru
+0.0.0.0 x.mobilebanner.ru
+0.0.0.0 y.mobilebanner.ru
+0.0.0.0 z.mobilebanner.ru
+
 0.0.0.0 0c5.ru
 0.0.0.0 0kino.net
 0.0.0.0 0nlinemedia.com
